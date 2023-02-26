@@ -1,0 +1,13 @@
+﻿  Game.c
+D:\学习资料\VS程序\贪吃蛇\贪吃蛇\Game.c(18,21): warning C4047: “函数”:“int”与“void *”的间接级别不同
+D:\学习资料\VS程序\贪吃蛇\贪吃蛇\Game.c(18,17): warning C4024: “memset”: 形参和实参 2 的类型不同
+D:\学习资料\VS程序\贪吃蛇\贪吃蛇\Game.c(20,11): warning C4013: “DrawSnake”未定义；假设外部返回 int
+D:\学习资料\VS程序\贪吃蛇\贪吃蛇\Game.c(72,8): warning C4013: “gets”未定义；假设外部返回 int
+  main.c
+D:\学习资料\VS程序\贪吃蛇\贪吃蛇\main.c(5,10): warning C4013: “setColor”未定义；假设外部返回 int
+  Rank.c
+  UI.c
+D:\学习资料\VS程序\贪吃蛇\贪吃蛇\UI.c(79,21): warning C4047: “函数”:“int”与“void *”的间接级别不同
+D:\学习资料\VS程序\贪吃蛇\贪吃蛇\UI.c(79,17): warning C4024: “memset”: 形参和实参 2 的类型不同
+  正在生成代码...
+  贪吃蛇.vcxproj -> D:\学习资料\VS程序\贪吃蛇\x64\Debug\贪吃蛇.exe

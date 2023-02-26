@@ -1,0 +1,6 @@
+﻿  Game.c
+D:\VS程序\贪吃蛇\贪吃蛇\Game.c(10,11): warning C4013: “DrawSnake”未定义；假设外部返回 int
+  main.c
+  UI.c
+  正在生成代码...
+  贪吃蛇.vcxproj -> D:\VS程序\贪吃蛇\Debug\贪吃蛇.exe
